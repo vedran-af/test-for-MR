@@ -1,3 +1,2 @@
 Im file A
 Im second line added in task 2
-Im line added in task-1
